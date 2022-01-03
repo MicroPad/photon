@@ -1,5 +1,8 @@
 # photon
 
+**This is the MicroPad fork of Photon. See https://www.npmjs.com/package/@nick_webster/photon for the package. It uses 
+wasm-pack's web target instead of the Webpack target.**
+
 <p align="center">
   <a href="" rel="noopener">
  <img src="https://i.imgur.com/GxrKNOb.png" alt="Photon banner, showing the Photon logo on a dark background"></a>
